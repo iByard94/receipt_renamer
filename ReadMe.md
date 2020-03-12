@@ -4,5 +4,5 @@ It accomplishes this by reading the pdf and searching for the time stamp on the 
 It is designed to work in conjuncture with Apple Mail when multiple 
 emails are downloaded as PDFs in a folder. 
 
-I created it this way becase of how I save and organize my business receipts.
+This was created to make bulk email receipt renaming easier for better record keeping.
 
